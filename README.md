@@ -1,7 +1,6 @@
 # 42tools
 A collection of tools that may help you if you are a 42 Network student.
 
-
 # The Orthodox Canonical Class Form:
 A default constructor: used internally to initialize objects and data members when no other value is available.
 
